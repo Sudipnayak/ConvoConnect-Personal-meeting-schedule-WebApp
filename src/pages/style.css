@@ -1,0 +1,24 @@
+body{
+background-color: rgb(249, 240, 224);
+}
+.container{
+    display: flex;
+}
+.text-center{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 40%;
+    font-size: larger;
+    text-align: left;
+}
+
+.text-center p {
+    font-weight: 500;
+}
+
+.video-content {
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 40%;
+    border-radius: 50px;
+}
