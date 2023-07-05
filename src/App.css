@@ -122,14 +122,14 @@ input:focus, textarea:focus{
 }
 
 .meeting-card {
-  width: 400px;
-  margin: 8px;
+  width: 600px;
+  margin: 8px ;
   padding: 10px;
   border-radius: 16px;
   border: 1px solid rgb(224, 165, 36);
   text-align: left;
   background-color: white;
-}
+  }
 
 .meeting-img {
   width: 100%;
@@ -141,17 +141,16 @@ input:focus, textarea:focus{
 
 .meeting-container {
   justify-content: center;
-  display: flex;
   width: auto;
   margin: 30px;
+  display: flex;
 }
 
 .flex {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
-}
+  }
 
 .bookmark:hover {
   cursor: pointer;
